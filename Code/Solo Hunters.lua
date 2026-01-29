@@ -1,4 +1,4 @@
-return = {
+return {
     ["40KCCUTHANKS66"] = "Free Rewards",
     ["TOTHEMOON"] = "Stat Reset",
     ["LOVETOBRAZIL"] = "Stat Reset",
